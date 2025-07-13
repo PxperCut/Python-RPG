@@ -324,8 +324,8 @@ def calculate_room(grid, player_position, room_data):
     
 def main():
 
-    #intro_textfunc()  #uncomment me later
-    #time.sleep(1)
+    intro_textfunc()  #uncomment me later
+    time.sleep(1)
 
     while True:
 
